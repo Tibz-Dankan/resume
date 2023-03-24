@@ -38,6 +38,9 @@ Technologies
 
 <!-- -Docker -->
 
+Version Control
+-Git/Github
+
 Tools
 -Visual Studio Code
 
