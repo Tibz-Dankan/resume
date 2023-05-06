@@ -1,0 +1,57 @@
+Tibesigwa Dankan
+tibesigwadankan20@gmail.com
++256761839754
+github.com/tibz-dankan
+
+
+WORK EXPERIENCE (PROJECTS)
+Letschat – chat application
+
+
+
+Created a full-fledged real-time chat application using Javascript , React, Nodejs, MySQL, SCSS and Prisma.
+Implemented user authentication using JWT generated on the backend and stored in local storage on the frontend.
+Implemented real time chat functionality using websockets both on the frontend and backend to allow instant exchange of messages.
+
+Abacus uganda – Loan application system
+
+
+
+Developed  a loan application system for Abacus Finance Uganda using Javascript, Nodejs, Postgresql, EJS,  Prisma and TailwindCSS.
+Implemented Restful API endpoints to facilitate user authentication and loan application functionalities.
+Created a programmatic  email service using Sendgrid email API to automatically send contact messages to the admin.
+
+String Analyser – Text analysis tool
+
+
+
+Developed a tool that analyzes the text for alphabetic, numeric, and symbolic characters and displays the results in a table.
+Implemented using Typescript, React and SCSS, this tool uses regular expressions to match characters in the text.
+
+EDUCATION
+Makerere University – Bachelors of Science in Computer Science 
+Jan. 2021 - present
+
+
+Computer Science Coursework
+Data Structures, Algorithms, Programming Languages, Object Oriented Programming.
+
+
+Mandela SS Hoima – A level, PCM/ICT, 10 points
+Feb. 2018 - Nov.2019
+
+
+Mandela SS Hoima – O level,  14 aggregates
+Feb. 2014 - Nov.2017
+
+
+
+TECHNICAL SKILLS
+Proficient Languages And Frameworks
+JavaScript, Typescript, React, Nodejs, Redux, Express
+Knowledgeable Languages And Frameworks
+C, Java, Python, SQL
+Tools
+Git, HTML, CSS, Linux, Jest, Graphql
+
+
